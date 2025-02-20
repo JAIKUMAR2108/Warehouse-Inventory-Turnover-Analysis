@@ -87,7 +87,7 @@ The analysis generates key outputs:
 - Adjust the number of clusters in the KMeans algorithm.
 - Modify the forecast period for longer-term projections.
 
-##Technologies Used
+## Technologies Used
 The project leverages the following technologies:
 
 Python: Main programming language for data analysis.
