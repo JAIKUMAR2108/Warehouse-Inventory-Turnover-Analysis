@@ -87,9 +87,17 @@ The analysis generates key outputs:
 - Adjust the number of clusters in the KMeans algorithm.
 - Modify the forecast period for longer-term projections.
 
+##Technologies Used
+The project leverages the following technologies:
+
+Python: Main programming language for data analysis.
+Pandas & NumPy: Data manipulation and numerical operations.
+Matplotlib & Seaborn: Data visualization libraries used to create plots and charts.
+scikit-learn: Machine learning library for clustering (KMeans) and forecasting (Linear Regression).
+Jupyter Notebook: An interactive environment for running and documenting the analysis.
+
 ## License
 
 This project is open-source and available under the MIT License.
 
-add folder structure, Installation & Setup and technologies used
 
